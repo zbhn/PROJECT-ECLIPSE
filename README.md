@@ -69,12 +69,4 @@
 - 4 dynamic, halftone-styled comic book panels depicting ESM jettison, 25,000 mph plasma skip-entry, parachute deployment, and Pacific Ocean recovery.
 - Unlocks the classified Artemis IV Educational Archive!
 
----
-
-## 🚀 How to Run
-Simply open `index.html` in any modern web browser (Google Chrome, Microsoft Edge, Mozilla Firefox, or Safari):
-```bash
-# Double-click index.html or open via command line:
-start C:\Users\shibu\.gemini\antigravity\scratch\artemis-iv\index.html
-```
 No installation, npm build, or web server required!
